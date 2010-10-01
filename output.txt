@@ -1,0 +1,33 @@
+The output contains the two sets the graph will be divided into in the minimum cut configuration.
+Also displayed is the minimum cost of cutting the graph into such partitions.
+
+Example 3:
+
+['a', 'b']
+['c', 'd', 'e']
+1
+
+Example 4:
+
+['a', 'h', 'g', 'b']
+['c', 'd', 'e', 'f']
+4
+
+Example 6:
+
+['a']
+['b', 'c', 'd', 'e', 'f']
+10
+
+Example 8:
+
+['d', 'b', 'e']
+['a', 'c', 'f', 'g']
+1
+
+Example 9:
+
+['a', 'b']
+['c', 'd', 'e']
+5
+
